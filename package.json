@@ -2,7 +2,7 @@
   "name": "panel-auto-hide",
   "displayName": "Panel Auto Hide",
   "description": "Automatically hides the panel (terminal, output, problems) when you switch to an editor tab",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "publisher": "yoshintame",
   "license": "MIT",
   "repository": {
